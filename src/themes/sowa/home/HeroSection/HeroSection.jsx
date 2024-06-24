@@ -1,5 +1,5 @@
 import React from "react";
-import SlideShow from "./slideShow";
+import SlideShow from "./SlideShow";
 import Image from "next/image";
 
 export default function HeroSection({ section }) {
