@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.bgImg {
+  background-image: url("../components/editableTheme/public/backgroundImages/coverImage.jpeg");
+}
+.bgImg2 {
+  background-image: url("../components/editableTheme/public/backgroundImages/bgImg2.jpg");
+}
+
+textarea {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
