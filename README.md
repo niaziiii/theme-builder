@@ -1,19 +1,14 @@
-## Introduction
+# Theme Builder
 
-This is a theme-builder using [Next.js] project in which you can choose theme and customize it.
+A drag-and-drop page/theme builder: rearrange sections, pick colors, and preview components like carousels and star ratings live.
 
-## Getting Started
+**Stack:** Next.js 14 · React · Redux Toolkit · react-dnd · react-color · Tailwind CSS
 
-First, run the development server:
+## Run it locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000.
